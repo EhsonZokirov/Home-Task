@@ -1,2 +1,2 @@
-# Home-Task
+# Counter
 this program counts every click
